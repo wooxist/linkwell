@@ -1,4 +1,4 @@
-name: linkwell
+name: linkwell_mirror
 description: LinkWell is Text Plugin that detects URLs and Emails in a String and when tapped opens in users browsers,
 version: 0.1.10
 authors:

@@ -10,10 +10,10 @@ library linkwell;
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:linkwell/src/source.dart';
+import 'package:linkwell_mirror/src/source.dart';
 
 /// LinkWell depends on url_launcher plugin
-/// it help lauches the links and emails when user taps
+/// it help launches the links and emails when user taps
 import 'package:url_launcher/url_launcher.dart';
 
 /// LinkWell class created
